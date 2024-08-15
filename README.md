@@ -1,2 +1,43 @@
 # prework-study-guide
-a study guide for pre-work
+
+## Description
+A study guide to help me learn web development
+- I am motivated to evetually make a name for myself and have it reflect of my work.
+- I built this to better help myself and others who are just starting code.
+- The promblems solved in this repository are early beginning codes
+- I learned early command line codes and what to download to become a beginner web-developer
+
+## Table of Contents (Optional)
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+
+![alt text](assets/images/screenshot.png)
+
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
+
+## License
+
+
+
+---
